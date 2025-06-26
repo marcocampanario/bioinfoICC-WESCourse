@@ -1,15 +1,15 @@
 
-# About the Authors {-}
+# Sobre os autores {-}
 
 These credits are based on our [course contributors table guidelines](https://www.ottrproject.org/more_features.html#giving-credits-to-contributors).
 
 &nbsp;
 &nbsp;
 
-|Credits|Names|
+|Créditos|Nomes|
 |-------|-----|
-|**Pedagogy**||
-|Lead Content Instructor(s)|[FirstName LastName]|
+|**Pedagogia**||
+|Instrutores de Conteúdo|[Marco Campanário] e [Bruno Janke]|
 |Lecturer(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved| Delivered the course in some way - video or audio|
 |Content Author(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved | If any other authors besides lead instructor|
 |Content Contributor(s) (include section name/link in parentheses) - make new line if more than one section involved|  Wrote less than a chapter|
@@ -45,7 +45,8 @@ devtools::session_info()
 
 <!-- Author information -->
 
-[FirstName LastName]: link to personal website
+[Marco Campanário]: https://marcocampanario.github.io/
+[Bruno Janke]: http://lattes.cnpq.br/4253753934855465
 [John Muschelli]: https://johnmuschelli.com/
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
